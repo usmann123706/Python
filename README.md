@@ -61,5 +61,5 @@ Key insights on customer purchasing patterns.
 
 Based on the data insights, propose recommendations to optimize business performance, like focusing on high-demand products or targeting the most active regions.
 
-###Code Implementation
+### Code Implementation
 See the accompanying Python code in the online_retail_analysis.py file for the full implementation of the steps described above.
