@@ -28,11 +28,6 @@ The dataset contains the following columns:
 - **Python 3.x**
 - Libraries: `pandas`, `matplotlib`, `numpy`
 
-To install the required libraries, use the following:
-
-```bash
-pip install pandas matplotlib numpy
-
 ## Steps to Run the Analysis
 ### Load the Dataset:
 
