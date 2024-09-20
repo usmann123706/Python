@@ -41,7 +41,7 @@ Handle negative quantities and unit prices by converting them to zero.
 Remove or handle duplicates.
 Identify outliers using Z-scores and box plots, and decide on their treatment.
 
-###Exploratory Data Analysis (EDA):
+### Exploratory Data Analysis (EDA):
 Generate summary statistics for the dataset.
 Visualize sales trends across months, days of the week, and product types.
 Analyze product sales and identify the busiest periods.
